@@ -1,3 +1,10 @@
+#Adding CSV
+movies_metadata.csv
+ratings.csv
+
+#json
+wikipedia-movies.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -7,9 +14,6 @@ __pycache__/
 # C extensions
 *.so
 
-#To exclude csv files
-*.csv
-*config.py
 
 # Distribution / packaging
 .Python
