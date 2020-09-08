@@ -5,6 +5,9 @@ ratings.csv
 #json
 wikipedia-movies.json
 
+#Adding config
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
